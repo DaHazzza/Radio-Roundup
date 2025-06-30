@@ -3,7 +3,7 @@ A CTF challenge for UTS Techfest CTF 2025
 
 Challenge Name: Radio Roundup - Where
 
-We need your help!, police have seized logs from multiple cell towers across the city. We need to use this data to solve some mysteries. The data collected is between 25/06/25 - 02/07/25 Using your map skills, data refinement and triangulation to find the location of mobile ID PH#963365 on Friday between 9:50am and 10am. Flag Format is CSEC{Name_Of_Location} (Spaces as _) e.g. CSEC{UTS_Tower}. The location should be the closest significant landmark.
+We need your help!, police have seized logs from multiple cell towers across the city. We need to use this data to solve some mysteries. The data collected is between 25/06/25 - 02/07/25 Use your map skills, data refinement and triangulation to find the location of mobile ID PH#963365 on Friday between 9:50am and 10am. Flag Format is CSEC{Name_Of_Location} (Spaces as _) e.g. CSEC{UTS_Tower}. The location should be the closest significant landmark.
 
 <details>
   <summary>Flag</summary>
