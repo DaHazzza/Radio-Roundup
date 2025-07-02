@@ -36,7 +36,7 @@ CSEC{PH#498420}
 
 Challenge Name: Radio Roundup - Together
 
-In this challenge you will use the knowledge and dataset from "Radio Roundup - Where". What 2 People Met up at  33°52'15"S 151°12'42"E (Hyde Park) At ANY time during the week (they must've been at the location within 10 minuets of each other). The flag format is CSEC{ID1_ID2} e.g. TECHFEEST{PH#123456_ph#678901}
+In this challenge you will use the knowledge and dataset from "Radio Roundup - Where". What 2 People Met up at  33°52'15"S 151°12'42"E (Hyde Park) At ANY time during the week (they must've been at the location within 10 minuets of each other). The flag format is CSEC{ID1_ID2} e.g. CSEC{PH#123456_ph#678901}
 <details>
   <summary>Flag</summary>
 
